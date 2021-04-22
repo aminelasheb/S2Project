@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.spacysprint1">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/astro"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/astro"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".AlphabetAng"
+            android:theme="@style/Theme.Design.NoActionBar"/>
+        <activity android:name=".AFA"></activity>
+        <activity android:name=".Quiz"
+            android:theme="@style/Theme.Design.NoActionBar"/>
+        <activity android:name=".NumbersFr"
+            android:theme="@style/Theme.Design.NoActionBar"/>
+        <activity android:name=".ANQ"
+            android:theme="@style/Theme.Design.NoActionBar"/>
+        <activity android:name=".levels"
+            android:theme="@style/Theme.Design.NoActionBar"/>
+        <activity android:name=".NumAn"
+            android:theme="@style/Theme.Design.NoActionBar"/>
+        <activity android:name=".NumAr"
+            android:theme="@style/Theme.Design.NoActionBar"/>
+        <activity android:name=".Splash"
+            android:theme="@style/Theme.Design.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

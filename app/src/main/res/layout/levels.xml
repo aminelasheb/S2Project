@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@drawable/imglevels"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".levels"
+    tools:ignore="MissingDefaultResource">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/forme1"
+        android:layout_marginLeft="260dp"
+        android:layout_marginTop="20dp"
+
+        >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="LEVELS"
+            android:textStyle="bold"
+            android:textColor="#11295a"
+            android:textSize="25dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="15dp"
+            android:id="@+id/levels"
+            />
+
+    </LinearLayout>
+<RelativeLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+    <ImageView
+        android:layout_width="130dp"
+        android:layout_height="200dp"
+        android:src="@drawable/starlevonevert"
+        android:layout_marginTop="60dp"
+        android:layout_marginLeft="100dp"
+        android:id="@+id/levelone"
+        />
+    <ImageView
+        android:layout_width="130dp"
+        android:layout_height="200dp"
+        android:layout_marginTop="40dp"
+        android:layout_marginLeft="240dp"
+        android:src="@drawable/starlevtworouge" />
+    <ImageView
+        android:layout_width="130dp"
+        android:layout_height="200dp"
+        android:src="@drawable/starlevthreerouge"
+        android:layout_marginTop="170dp"
+        android:layout_marginLeft="260dp"
+        />
+    <ImageView
+        android:layout_width="130dp"
+        android:layout_height="200dp"
+        android:src="@drawable/starlevfourrouge"
+        android:layout_marginTop="210dp"
+        android:layout_marginLeft="120dp"
+        />
+    <ImageView
+        android:layout_width="130dp"
+        android:layout_height="200dp"
+        android:src="@drawable/starlevfiverouge"
+        android:layout_marginTop="320dp"
+        android:layout_marginLeft="10dp"
+        />
+    <ImageView
+        android:layout_width="130dp"
+        android:layout_height="200dp"
+        android:src="@drawable/starlevsixrouge"
+        android:layout_marginTop="380dp"
+        android:layout_marginLeft="120dp"
+        />
+    <ImageView
+        android:layout_width="130dp"
+        android:layout_height="200dp"
+        android:src="@drawable/starlevsevenrouge"
+        android:layout_marginLeft="250dp"
+        android:layout_marginTop="380dp"
+        />
+
+</RelativeLayout>
+
+</LinearLayout>

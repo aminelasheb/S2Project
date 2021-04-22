@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".NumbersFr"
+    android:orientation="vertical"
+    android:background="@drawable/backnumfr"
+    tools:ignore="MissingDefaultResource">
+    <HorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="300dp"
+                android:layout_height="200dp"
+                android:layout_marginLeft="40dp"
+                android:layout_marginTop="250dp"
+                android:src="@drawable/zerofrancais" />
+
+            <ImageView
+                android:layout_width="300dp"
+                android:layout_height="200dp"
+                android:layout_marginLeft="40dp"
+                android:layout_marginTop="250dp"
+                android:src="@drawable/unfr" />
+
+            <ImageView
+                android:layout_width="300dp"
+                android:layout_height="200dp"
+                android:layout_marginLeft="40dp"
+                android:layout_marginTop="250dp"
+                android:src="@drawable/deuxfr" />
+
+            <ImageView
+                android:layout_width="300dp"
+                android:layout_height="200dp"
+                android:layout_marginLeft="40dp"
+                android:layout_marginTop="250dp"
+                android:src="@drawable/troisfr" />
+
+            <ImageView
+                android:layout_width="300dp"
+                android:layout_height="200dp"
+                android:layout_marginLeft="40dp"
+                android:layout_marginTop="250dp"
+                android:src="@drawable/fourfr" />
+
+            <ImageView
+                android:layout_width="300dp"
+                android:layout_height="200dp"
+                android:layout_marginLeft="40dp"
+                android:layout_marginTop="250dp"
+                android:src="@drawable/fivefr" />
+
+            <ImageView
+                android:layout_width="300dp"
+                android:layout_height="200dp"
+                android:layout_marginLeft="40dp"
+                android:layout_marginTop="250dp"
+                android:src="@drawable/sixfring" />
+
+            <ImageView
+                android:layout_width="300dp"
+                android:layout_height="200dp"
+                android:layout_marginLeft="40dp"
+                android:layout_marginTop="250dp"
+                android:src="@drawable/sevenfr" />
+
+            <ImageView
+                android:layout_width="300dp"
+                android:layout_height="200dp"
+                android:layout_marginLeft="40dp"
+                android:layout_marginTop="250dp"
+                android:src="@drawable/huitfr" />
+
+            <ImageView
+                android:layout_width="300dp"
+                android:layout_height="200dp"
+                android:layout_marginLeft="40dp"
+                android:layout_marginTop="250dp"
+                android:src="@drawable/ninefr" />
+
+            <ImageView
+                android:layout_width="300dp"
+                android:layout_height="200dp"
+                android:layout_marginLeft="40dp"
+                android:layout_marginTop="250dp"
+                android:src="@drawable/tenfr" />
+
+        </LinearLayout>
+
+    </HorizontalScrollView>
+
+    <HorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="120dp"
+                android:layout_height="100dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="150dp"
+                android:background="@drawable/forme"
+                android:src="@drawable/zerofrancais" />
+
+            <ImageView
+                android:layout_width="120dp"
+                android:layout_height="100dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="150dp"
+                android:background="@drawable/forme"
+                android:src="@drawable/unfr" />
+
+            <ImageView
+                android:layout_width="120dp"
+                android:layout_height="100dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="150dp"
+                android:src="@drawable/deuxbackfr" />
+
+            <ImageView
+                android:layout_width="120dp"
+                android:layout_height="100dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="150dp"
+                android:src="@drawable/troisbackfr" />
+
+            <ImageView
+                android:layout_width="120dp"
+                android:layout_height="100dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="150dp"
+                android:src="@drawable/fourbackfr" />
+
+            <ImageView
+                android:layout_width="120dp"
+                android:layout_height="100dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="150dp"
+                android:src="@drawable/cinqbackfr" />
+
+            <ImageView
+                android:layout_width="120dp"
+                android:layout_height="100dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="150dp"
+                android:src="@drawable/six" />
+
+            <ImageView
+                android:layout_width="120dp"
+                android:layout_height="100dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="150dp"
+                android:src="@drawable/septback" />
+
+            <ImageView
+                android:layout_width="120dp"
+                android:layout_height="100dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="150dp"
+                android:src="@drawable/huitback" />
+
+            <ImageView
+                android:layout_width="120dp"
+                android:layout_height="100dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="150dp"
+                android:src="@drawable/ninebackfr" />
+
+            <ImageView
+                android:layout_width="120dp"
+                android:layout_height="100dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="150dp"
+                android:src="@drawable/tenbackfr" />
+
+
+        </LinearLayout>
+    </HorizontalScrollView>
+
+
+
+</LinearLayout>

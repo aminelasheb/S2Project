@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/backnum"
+    >
+
+    <HorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="300dp"
+                android:layout_height="200dp"
+                android:layout_marginLeft="40dp"
+                android:layout_marginTop="250dp"
+                android:src="@drawable/zero" />
+
+            <ImageView
+                android:layout_width="300dp"
+                android:layout_height="200dp"
+                android:layout_marginLeft="40dp"
+                android:layout_marginTop="250dp"
+                android:src="@drawable/one" />
+
+            <ImageView
+                android:layout_width="300dp"
+                android:layout_height="200dp"
+                android:layout_marginLeft="40dp"
+                android:layout_marginTop="250dp"
+                android:src="@drawable/two" />
+
+            <ImageView
+                android:layout_width="300dp"
+                android:layout_height="200dp"
+                android:layout_marginLeft="40dp"
+                android:layout_marginTop="250dp"
+                android:src="@drawable/three" />
+
+            <ImageView
+                android:layout_width="300dp"
+                android:layout_height="200dp"
+                android:layout_marginLeft="40dp"
+                android:layout_marginTop="250dp"
+                android:src="@drawable/four" />
+
+            <ImageView
+                android:layout_width="300dp"
+                android:layout_height="200dp"
+                android:layout_marginLeft="40dp"
+                android:layout_marginTop="250dp"
+                android:src="@drawable/five" />
+
+            <ImageView
+                android:layout_width="300dp"
+                android:layout_height="200dp"
+                android:layout_marginLeft="40dp"
+                android:layout_marginTop="250dp"
+                android:src="@drawable/six" />
+
+            <ImageView
+                android:layout_width="300dp"
+                android:layout_height="200dp"
+                android:layout_marginLeft="40dp"
+                android:layout_marginTop="250dp"
+                android:src="@drawable/seven" />
+
+            <ImageView
+                android:layout_width="300dp"
+                android:layout_height="200dp"
+                android:layout_marginLeft="40dp"
+                android:layout_marginTop="250dp"
+                android:src="@drawable/eight" />
+
+            <ImageView
+                android:layout_width="300dp"
+                android:layout_height="200dp"
+                android:layout_marginLeft="40dp"
+                android:layout_marginTop="250dp"
+                android:src="@drawable/ninee" />
+
+            <ImageView
+                android:layout_width="300dp"
+                android:layout_height="200dp"
+                android:layout_marginLeft="40dp"
+                android:layout_marginTop="250dp"
+                android:src="@drawable/ten" />
+
+        </LinearLayout>
+
+    </HorizontalScrollView>
+
+    <HorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="120dp"
+                android:layout_height="100dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="150dp"
+                android:src="@drawable/zero" />
+
+            <ImageView
+                android:layout_width="120dp"
+                android:layout_height="100dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="150dp"
+                android:src="@drawable/one" />
+
+            <ImageView
+                android:layout_width="120dp"
+                android:layout_height="100dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="150dp"
+                android:src="@drawable/two" />
+
+            <ImageView
+                android:layout_width="120dp"
+                android:layout_height="100dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="150dp"
+                android:src="@drawable/three" />
+
+            <ImageView
+                android:layout_width="120dp"
+                android:layout_height="100dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="150dp"
+                android:src="@drawable/four" />
+
+            <ImageView
+                android:layout_width="120dp"
+                android:layout_height="100dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="150dp"
+                android:src="@drawable/five" />
+
+            <ImageView
+                android:layout_width="120dp"
+                android:layout_height="100dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="150dp"
+                android:src="@drawable/six" />
+
+            <ImageView
+                android:layout_width="120dp"
+                android:layout_height="200dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="150dp"
+                android:src="@drawable/seven" />
+
+            <ImageView
+                android:layout_width="120dp"
+                android:layout_height="200dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="150dp"
+                android:src="@drawable/eight" />
+
+            <ImageView
+                android:layout_width="120dp"
+                android:layout_height="200dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="150dp"
+                android:src="@drawable/ninee" />
+
+            <ImageView
+                android:layout_width="120dp"
+                android:layout_height="200dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="150dp"
+                android:src="@drawable/ten" />
+
+
+        </LinearLayout>
+    </HorizontalScrollView>
+
+</LinearLayout>

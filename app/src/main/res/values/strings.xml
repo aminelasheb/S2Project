@@ -1,0 +1,133 @@
+<resources>
+    <string name="app_name">spacysprint1</string>
+    <string name="Login">Login</string>
+
+    <string name="question1"> Fill in the missing letter:
+                            A,B,__,D </string>
+    <string name="question1_A"> H </string>
+    <string name="question1_B"> M </string>
+    <string name="question1_C"> C </string>
+    <string name="question1_D"> P </string>
+    <string name="answer1"> C </string>
+
+
+    <string name="question2"> T ,is the uppercase form of
+                             </string>
+    <string name="question2_A"> w </string>
+    <string name="question2_B"> q </string>
+    <string name="question2_C"> m </string>
+    <string name="question2_D"> t </string>
+    <string name="answer2"> t </string>
+
+    <string name="question4"> Complete the order of numbers :
+        0 ,1 ,2 ,__
+                             </string>
+    <string name="question4_A"> 1 </string>
+    <string name="question4_B"> 8 </string>
+    <string name="question4_C"> 5 </string>
+    <string name="question4_D"> 3 </string>
+    <string name="answer4"> 3 </string>
+
+    <string name="question3"> m ,is the lowercase form of
+                             </string>
+    <string name="question3_A"> N </string>
+    <string name="question3_B"> M </string>
+    <string name="question3_C"> P </string>
+    <string name="question3_D"> J </string>
+    <string name="answer3"> M </string>
+
+
+    <string name="question5"> 1 + 1
+                             </string>
+    <string name="question5_A"> 0 </string>
+    <string name="question5_B"> 1 </string>
+    <string name="question5_C"> 5 </string>
+    <string name="question5_D"> 2 </string>
+    <string name="answer5"> 2 </string>
+
+    <string name="question6_A"> 3 </string>
+    <string name="question6_B"> 2 </string>
+    <string name="question6_C"> 7</string>
+    <string name="question6_D"> 9 </string>
+    <string name="answer6"> 2 </string>
+
+    <string name="question7_A"> 4 </string>
+    <string name="question7_B"> 9 </string>
+    <string name="question7_C"> 3</string>
+    <string name="question7_D"> 8 </string>
+    <string name="answer7"> 3 </string>
+
+    <string name="question8_A"> a </string>
+    <string name="question8_B"> x </string>
+    <string name="question8_C"> d</string>
+    <string name="question8_D"> p </string>
+    <string name="answer8"> a </string>
+
+    <string name="question9_A"> M </string>
+    <string name="question9_B"> D </string>
+    <string name="question9_C"> B</string>
+    <string name="question9_D"> X </string>
+    <string name="answer9"> B </string>
+
+    <string name="question10_A"> 5 </string>
+    <string name="question10_B"> 4 </string>
+    <string name="question10_C"> 3</string>
+    <string name="question10_D"> 9 </string>
+    <string name="answer10"> 9 </string>
+
+    <string name="question11">
+                            E,F,__,H </string>
+    <string name="question11_A"> P </string>
+    <string name="question11_B"> D </string>
+    <string name="question11_C"> S</string>
+    <string name="question11_D"> G </string>
+    <string name="answer11"> G </string>
+
+
+    <string name="question12_A"> Trois </string>
+    <string name="question12_B"> Cinq </string>
+    <string name="question12_C"> Quatre </string>
+    <string name="question12_D"> Six </string>
+    <string name="answer12"> Quatre </string>
+
+    <string name="question13_A"> Six </string>
+    <string name="question13_B"> Neuf </string>
+    <string name="question13_C"> Trois </string>
+    <string name="question13_D"> Un </string>
+    <string name="answer13"> Six </string>
+    <string name="title_activity_quiz_arab">QuizArab</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="question14">
+                           أ ,ب , ... </string>
+    <string name="question14_A"> ت </string>
+    <string name="question14_B"> ج </string>
+    <string name="question14_C"> م </string>
+    <string name="question14_D"> و </string>
+    <string name="answer14"> ت </string>
+
+    <string name="question15">
+                            5 </string>
+    <string name="question15_A"> عشرة </string>
+    <string name="question15_B"> خمسة </string>
+    <string name="question15_C"> سبعة </string>
+    <string name="question15_D"> ثمانية </string>
+    <string name="answer15"> خمسة </string>
+
+    <string name="question16">
+                            يوجد في اللغة العربية  </string>
+    <string name="question16_A"> 12 حرف </string>
+    <string name="question16_B"> 15 حرف </string>
+    <string name="question16_C"> 28 حرف </string>
+    <string name="question16_D"> 52 حرف </string>
+    <string name="answer16">  حرف </string>
+    <string name="title_activity_splash">splash</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+</resources>

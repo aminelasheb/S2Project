@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/backalphaone"
+    android:orientation="vertical"
+    tools:context=".AlphabetAng">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <HorizontalScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="300dp"
+                    android:layout_height="200dp"
+                    android:layout_marginLeft="40dp"
+                    android:layout_marginTop="260dp"
+                    android:src="@drawable/aa2021" />
+
+                <ImageView
+                    android:layout_width="300dp"
+                    android:layout_height="200dp"
+                    android:layout_marginTop="260dp"
+                    android:layout_marginLeft="40dp"
+                    android:src="@drawable/bb2021"/>
+
+                <ImageView
+                    android:layout_width="300dp"
+                    android:layout_height="200dp"
+                    android:layout_marginTop="260dp"
+                    android:layout_marginLeft="40dp"
+                    android:src="@drawable/cc2021"/>
+
+                <ImageView
+                    android:layout_width="300dp"
+                    android:layout_height="200dp"
+                    android:layout_marginTop="260dp"
+                    android:layout_marginLeft="40dp"
+                    android:src="@drawable/dd2021"/>
+
+                <ImageView
+                    android:layout_width="300dp"
+                    android:layout_height="200dp"
+                    android:layout_marginTop="260dp"
+                    android:layout_marginLeft="40dp"
+                    android:src="@drawable/ee2021"/>
+
+                <ImageView
+                    android:layout_width="300dp"
+                    android:layout_height="200dp"
+                    android:layout_marginTop="260dp"
+                    android:layout_marginLeft="40dp"
+                    android:src="@drawable/ff2021"/>
+
+                <ImageView
+                    android:layout_width="300dp"
+                    android:layout_height="200dp"
+                    android:layout_marginTop="260dp"
+                    android:layout_marginLeft="40dp"
+                    android:src="@drawable/gg2021"/>
+
+                <ImageView
+                    android:layout_width="300dp"
+                    android:layout_height="200dp"
+                    android:layout_marginTop="260dp"
+                    android:layout_marginLeft="40dp"
+                    android:src="@drawable/hh2021"/>
+
+                <ImageView
+                    android:layout_width="300dp"
+                    android:layout_height="200dp"
+                    android:layout_marginTop="260dp"
+                    android:layout_marginLeft="40dp"
+                    android:src="@drawable/ii2021"/>
+
+                <ImageView
+                    android:layout_width="300dp"
+                    android:layout_height="200dp"
+                    android:layout_marginTop="260dp"
+                    android:layout_marginLeft="40dp"
+                    android:src="@drawable/jj2021"/>
+
+                <ImageView
+                    android:layout_width="300dp"
+                    android:layout_height="200dp"
+                    android:layout_marginTop="260dp"
+                    android:layout_marginLeft="40dp"
+                    android:src="@drawable/kk2021kk"/>
+
+                <ImageView
+                    android:layout_width="300dp"
+                    android:layout_height="200dp"
+                    android:layout_marginTop="260dp"
+                    android:layout_marginLeft="40dp"
+                    android:src="@drawable/ll20021"/>
+
+                <ImageView
+                    android:layout_width="300dp"
+                    android:layout_height="200dp"
+                    android:layout_marginTop="260dp"
+                    android:layout_marginLeft="40dp"
+                    android:src="@drawable/mm2021"/>
+
+                <ImageView
+                    android:layout_width="300dp"
+                    android:layout_height="200dp"
+                    android:layout_marginTop="260dp"
+                    android:layout_marginLeft="40dp"
+                    android:src="@drawable/nn2021"/>
+
+                <ImageView
+                    android:layout_width="300dp"
+                    android:layout_height="200dp"
+                    android:layout_marginTop="260dp"
+                    android:layout_marginLeft="40dp"
+                    android:src="@drawable/oo2021"/>
+
+                <ImageView
+                    android:layout_width="300dp"
+                    android:layout_height="200dp"
+                    android:layout_marginTop="260dp"
+                    android:layout_marginLeft="40dp"
+                    android:src="@drawable/pp2021"/>
+
+                <ImageView
+                    android:layout_width="300dp"
+                    android:layout_height="200dp"
+                    android:layout_marginTop="260dp"
+                    android:layout_marginLeft="40dp"
+                    android:src="@drawable/qq2021"/>
+
+                <ImageView
+                    android:layout_width="300dp"
+                    android:layout_height="200dp"
+                    android:layout_marginTop="260dp"
+                    android:layout_marginLeft="40dp"
+                    android:src="@drawable/rr2021"/>
+
+                <ImageView
+                    android:layout_width="300dp"
+                    android:layout_height="200dp"
+                    android:layout_marginTop="260dp"
+                    android:layout_marginLeft="40dp"
+                    android:src="@drawable/ss2021"/>
+
+                <ImageView
+                    android:layout_width="300dp"
+                    android:layout_height="200dp"
+                    android:layout_marginTop="260dp"
+                    android:layout_marginLeft="40dp"
+                    android:src="@drawable/tt2021"/>
+
+                <ImageView
+                    android:layout_width="300dp"
+                    android:layout_height="200dp"
+                    android:layout_marginTop="260dp"
+                    android:layout_marginLeft="40dp"
+                    android:src="@drawable/uu2021"/>
+
+                <ImageView
+                    android:layout_width="300dp"
+                    android:layout_height="200dp"
+                    android:layout_marginTop="260dp"
+                    android:layout_marginLeft="40dp"
+                    android:src="@drawable/vv2021"/>
+
+                <ImageView
+                    android:layout_width="300dp"
+                    android:layout_height="200dp"
+                    android:layout_marginTop="260dp"
+                    android:layout_marginLeft="40dp"
+                    android:src="@drawable/ww2021"/>
+
+                <ImageView
+                    android:layout_width="300dp"
+                    android:layout_height="200dp"
+                    android:layout_marginTop="260dp"
+                    android:layout_marginLeft="40dp"
+                    android:src="@drawable/xx2021"/>
+
+                <ImageView
+                    android:layout_width="300dp"
+                    android:layout_height="200dp"
+                    android:layout_marginTop="260dp"
+                    android:layout_marginLeft="40dp"
+                    android:src="@drawable/yy2021"/>
+
+                <ImageView
+                    android:layout_width="300dp"
+                    android:layout_height="200dp"
+                    android:layout_marginTop="260dp"
+                    android:layout_marginLeft="40dp"
+                    android:src="@drawable/zz2021"/>
+
+
+
+
+            </LinearLayout>
+        </HorizontalScrollView>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <HorizontalScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="150dp"
+                    android:layout_height="120dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="120dp"
+                    android:background="@drawable/forme"
+                    android:src="@drawable/aa2021" />
+
+                <ImageView
+                    android:layout_width="150dp"
+                    android:layout_height="120dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="120dp"
+                    android:background="@drawable/forme"
+                    android:src="@drawable/bb2021"/>
+
+                <ImageView
+                    android:layout_width="150dp"
+                    android:layout_height="120dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="120dp"
+                    android:background="@drawable/forme"
+                    android:src="@drawable/cc2021"/>
+
+                <ImageView
+                    android:layout_width="150dp"
+                    android:layout_height="120dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="120dp"
+                    android:background="@drawable/forme"
+                    android:src="@drawable/dd2021"/>
+
+                <ImageView
+                    android:layout_width="150dp"
+                    android:layout_height="120dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="120dp"
+                    android:background="@drawable/forme"
+                    android:src="@drawable/ee2021"/>
+
+                <ImageView
+                    android:layout_width="150dp"
+                    android:layout_height="120dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="120dp"
+                    android:background="@drawable/forme"
+                    android:src="@drawable/ff2021"/>
+
+                <ImageView
+                    android:layout_width="150dp"
+                    android:layout_height="120dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="120dp"
+                    android:background="@drawable/forme"
+                    android:src="@drawable/gg2021"/>
+
+                <ImageView
+                    android:layout_width="150dp"
+                    android:layout_height="120dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="120dp"
+                    android:background="@drawable/forme"
+                    android:src="@drawable/hh2021"/>
+
+                <ImageView
+                    android:layout_width="150dp"
+                    android:layout_height="120dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="120dp"
+                    android:background="@drawable/forme"
+                    android:src="@drawable/ii2021"/>
+
+                <ImageView
+                    android:layout_width="150dp"
+                    android:layout_height="120dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="120dp"
+                    android:background="@drawable/forme"
+                    android:src="@drawable/jj2021"/>
+
+                <ImageView
+                    android:layout_width="150dp"
+                    android:layout_height="120dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="120dp"
+                    android:background="@drawable/forme"
+                    android:src="@drawable/kk2021kk"/>
+
+                <ImageView
+                    android:layout_width="150dp"
+                    android:layout_height="120dp"
+                    android:layout_marginTop="120dp"
+                    android:layout_marginLeft="20dp"
+                    android:background="@drawable/forme"
+                    android:src="@drawable/ll20021"/>
+
+                <ImageView
+                    android:layout_width="150dp"
+                    android:layout_height="120dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="120dp"
+                    android:background="@drawable/forme"
+                    android:src="@drawable/mm2021"/>
+
+                <ImageView
+                    android:layout_width="150dp"
+                    android:layout_height="120dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="120dp"
+                    android:background="@drawable/forme"
+                    android:src="@drawable/nn2021"/>
+
+                <ImageView
+                    android:layout_width="150dp"
+                    android:layout_height="120dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="120dp"
+                    android:background="@drawable/forme"
+                    android:src="@drawable/oo2021"/>
+
+                <ImageView
+                    android:layout_width="150dp"
+                    android:layout_height="120dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="120dp"
+                    android:background="@drawable/forme"
+                    android:src="@drawable/pp2021"/>
+
+                <ImageView
+                    android:layout_width="150dp"
+                    android:layout_height="120dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="120dp"
+                    android:background="@drawable/forme"
+                    android:src="@drawable/qq2021"/>
+
+                <ImageView
+                    android:layout_width="150dp"
+                    android:layout_height="120dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="120dp"
+                    android:background="@drawable/forme"
+                    android:src="@drawable/rr2021"/>
+
+                <ImageView
+                    android:layout_width="150dp"
+                    android:layout_height="120dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="120dp"
+                    android:background="@drawable/forme"
+                    android:src="@drawable/ss2021"/>
+
+                <ImageView
+                    android:layout_width="150dp"
+                    android:layout_height="120dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="120dp"
+                    android:background="@drawable/forme"
+                    android:src="@drawable/tt2021"/>
+
+                <ImageView
+                    android:layout_width="150dp"
+                    android:layout_height="120dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="120dp"
+                    android:background="@drawable/forme"
+                    android:src="@drawable/uu2021"/>
+
+                <ImageView
+                    android:layout_width="150dp"
+                    android:layout_height="120dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="120dp"
+                    android:background="@drawable/forme"
+                    android:src="@drawable/vv2021"/>
+
+                <ImageView
+                    android:layout_width="150dp"
+                    android:layout_height="120dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="120dp"
+                    android:background="@drawable/forme"
+                    android:src="@drawable/ww2021"/>
+
+                <ImageView
+                    android:layout_width="150dp"
+                    android:layout_height="120dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="120dp"
+                    android:background="@drawable/forme"
+                    android:src="@drawable/xx2021"/>
+
+                <ImageView
+                    android:layout_width="150dp"
+                    android:background="@drawable/forme"
+                    android:layout_height="120dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="120dp"
+                    android:src="@drawable/yy2021"/>
+
+                <ImageView
+                    android:layout_width="150dp"
+                    android:layout_height="120dp"
+                    android:layout_marginLeft="20dp"
+                    android:background="@drawable/forme"
+                    android:layout_marginTop="120dp"
+                    android:src="@drawable/zz2021"/>
+
+
+
+
+            </LinearLayout>
+        </HorizontalScrollView>
+    </LinearLayout>
+
+</LinearLayout>
